@@ -166,7 +166,7 @@ Some badges changed over time, here is a list of all the changes.
 | Badge                        | Before                                                                                       | After                                                           | Date Changed |
 | ---------------------------- | -------------------------------------------------------------------------------------------- | --------------------------------------------------------------- | ------------ |
 | Bot Flare                    | Named BOTS                                                                                   | Renamed to **APPS**                                             | 2024-04-17   |
-| Discord Partner Program      | ---                                                                                          | Closed down                                                     | 2023-10-05   |
+| Discord Partner Program      | Active                                                                                          | Closed down                                                     | 2023-10-05   |
 | Moderator Programs Alumni    | <img  src="/assets/old-discord-mod.svg" style="width: 140px;" ><br>Discord Certified Moderator | <img src="/assets/discord-mod.svg"><br>Moderator Programs Alumni | 2022-12-01   |
 | Discord Partner              | <img  src="/assets/old-discord-partner.png" style="width: 140px;" >                            | <img src="/assets/discord-partner.svg">                          | 2022-05-31   |
 | Early Verified Bot Developer | Verified Bot Developer                                                                       | **Early** Verified Bot Developer                                | 2020-08-19   |
