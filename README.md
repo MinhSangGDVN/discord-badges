@@ -237,7 +237,7 @@ Some badges changed over time, here is a list of all the changes.
 
 | Badge                        | Before                                                                                       | After                                                           | Date Changed |
 | ---------------------------- | -------------------------------------------------------------------------------------------- | --------------------------------------------------------------- | ------------ |
-| Nitro                        | <img src="/assets/old-discord-nitro.svg" style="width: 140px;" >                                  | <img src="/assets/discord-nitro.svg">                     | 2026-08-17   |
+| Discord Nitro                | <img src="/assets/old-discord-nitro.svg" style="width: 140px;" >                                  | <img src="/assets/discord-nitro.svg">                     | 2026-08-17   |
 | Bot Flare                    | Named BOTS                                                                                   | Renamed to **APPS**                                             | 2024-04-17   |
 | Discord Partner Program      | Active                                                                                          | Closed down                                                     | 2023-10-05   |
 | Moderator Programs Alumni    | <img  src="/assets/old-discord-mod.svg" style="width: 140px;" ><br>Discord Certified Moderator | <img src="/assets/discord-mod.svg"><br>Moderator Programs Alumni | 2022-12-01   |
